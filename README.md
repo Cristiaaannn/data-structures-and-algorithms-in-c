@@ -1,3 +1,5 @@
+This is one of the courses I've taken in my learning path.
+
 # Data Structures and Algorithms in C
 
 This [“Data Structures and Algorithms in C”]( https://www.udemy.com/course/data-structures-and-algorithms-in-c/?couponCode=GITHUBSTUDENT ) repository is for the students of my online course available on Udemy. It contains the source code of all the programs used in the course. 
